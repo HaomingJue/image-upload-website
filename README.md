@@ -11,5 +11,5 @@ Images repository: AWS S3 Bucket <br />
 
 **Todo: <br />**
 Implement database layer with Mybatis and add buttons for adding and removing users <br/>
-Increase login and authentication mechanism <br/ >
+Increase login and authentication mechanism <br/>
 Deploy on AWS EC2!
